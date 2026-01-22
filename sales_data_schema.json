@@ -16,7 +16,7 @@
   },
   {
     "name": "sales",
-    "type": "FLOAT",
+    "type": "DOUBLE",
     "mode": "NULLABLE"
   },
   {
