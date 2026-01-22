@@ -16,7 +16,7 @@
   },
   {
     "name": "sales",
-    "type": "DOUBLE",
+    "type": "NUMERIC",
     "mode": "NULLABLE"
   },
   {
