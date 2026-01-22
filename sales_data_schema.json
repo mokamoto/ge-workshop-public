@@ -1,0 +1,27 @@
+[
+  {
+    "name": "country",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "age_group",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "interest",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "sales",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "product_category",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
