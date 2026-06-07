@@ -1,0 +1,1001 @@
+country,age_group,interest,sales,product_category
+Germany,18-24,Cooking,43209.77,Fitness Tracker
+Germany,18-24,Cooking,25549.65,Fitness Tracker
+Germany,18-24,Cooking,18440.74,Fitness Tracker
+Germany,18-24,Finance,8512.07,Fitness Tracker
+Germany,18-24,Fitness,7153.29,Fitness Tracker
+Germany,18-24,Fitness,32228.24,Fitness Tracker
+Germany,18-24,Fitness,22604.77,Fitness Tracker
+Germany,18-24,Fitness,46573.77,Fitness Tracker
+Germany,18-24,Gaming,44135.52,Fitness Tracker
+Germany,18-24,Music,8016.89,Fitness Tracker
+Germany,18-24,Technology,27210.66,Fitness Tracker
+Germany,18-24,Travel,13810.59,Fitness Tracker
+Germany,18-24,Cooking,2669.54,Headphones
+Germany,18-24,Cooking,45072.67,Headphones
+Germany,18-24,Finance,49242.26,Headphones
+Germany,18-24,Finance,15170.19,Headphones
+Germany,18-24,Gaming,33834.77,Headphones
+Germany,18-24,Music,35484.22,Headphones
+Germany,18-24,Music,36258.91,Headphones
+Germany,18-24,Music,2659.76,Headphones
+Germany,18-24,Technology,32395.09,Headphones
+Germany,18-24,Cooking,25132.04,Laptop
+Germany,18-24,Finance,43556.83,Laptop
+Germany,18-24,Finance,29942.78,Laptop
+Germany,18-24,Gaming,7379.09,Laptop
+Germany,18-24,Gaming,6102.9,Laptop
+Germany,18-24,Gaming,38587.36,Laptop
+Germany,18-24,Music,30932.37,Laptop
+Germany,18-24,Music,4342.97,Laptop
+Germany,18-24,Technology,8558.57,Laptop
+Germany,18-24,Travel,27449.2,Laptop
+Germany,18-24,Travel,44742.89,Laptop
+Germany,18-24,Travel,4779.46,Laptop
+Germany,18-24,Travel,12217.68,Laptop
+Germany,18-24,Cooking,30670.89,Smartphone
+Germany,18-24,Finance,20303.85,Smartphone
+Germany,18-24,Finance,20158.79,Smartphone
+Germany,18-24,Finance,3927.85,Smartphone
+Germany,18-24,Fitness,13270.38,Smartphone
+Germany,18-24,Music,42429.7,Smartphone
+Germany,18-24,Music,10555.83,Smartphone
+Germany,18-24,Technology,17174.95,Smartphone
+Germany,18-24,Technology,5220.72,Smartphone
+Germany,18-24,Technology,21486.07,Smartphone
+Germany,18-24,Travel,39983.65,Smartphone
+Germany,18-24,Travel,18572.73,Smartphone
+Germany,18-24,Cooking,17265.12,Wearable
+Germany,18-24,Cooking,48586.93,Wearable
+Germany,18-24,Cooking,35524.29,Wearable
+Germany,18-24,Cooking,6979.78,Wearable
+Germany,18-24,Finance,17609.55,Wearable
+Germany,18-24,Fitness,16189.83,Wearable
+Germany,18-24,Gaming,40841.34,Wearable
+Germany,18-24,Gaming,27033.36,Wearable
+Germany,18-24,Music,27024.94,Wearable
+Germany,18-24,Technology,35417.33,Wearable
+Germany,18-24,Travel,27673,Wearable
+Germany,25-40,Cooking,37077.9,Fitness Tracker
+Germany,25-40,Cooking,28270.07,Fitness Tracker
+Germany,25-40,Cooking,17480.45,Fitness Tracker
+Germany,25-40,Finance,45990.91,Fitness Tracker
+Germany,25-40,Fitness,23614.77,Fitness Tracker
+Germany,25-40,Fitness,35653.3,Fitness Tracker
+Germany,25-40,Fitness,12211.18,Fitness Tracker
+Germany,25-40,Fitness,20929.53,Fitness Tracker
+Germany,25-40,Fitness,14065.82,Fitness Tracker
+Germany,25-40,Fitness,22150.81,Fitness Tracker
+Germany,25-40,Gaming,15693.48,Fitness Tracker
+Germany,25-40,Music,11656.32,Fitness Tracker
+Germany,25-40,Technology,29496.32,Fitness Tracker
+Germany,25-40,Travel,48547.52,Fitness Tracker
+Germany,25-40,Travel,38265.6,Fitness Tracker
+Germany,25-40,Cooking,42001.32,Headphones
+Germany,25-40,Finance,12570.98,Headphones
+Germany,25-40,Finance,19430.81,Headphones
+Germany,25-40,Fitness,4489.11,Headphones
+Germany,25-40,Gaming,10291.09,Headphones
+Germany,25-40,Gaming,15921.04,Headphones
+Germany,25-40,Gaming,45803.64,Headphones
+Germany,25-40,Music,34721.66,Headphones
+Germany,25-40,Technology,1269.71,Headphones
+Germany,25-40,Travel,3004.66,Headphones
+Germany,25-40,Travel,37668.14,Headphones
+Germany,25-40,Travel,8672.24,Headphones
+Germany,25-40,Travel,47376.22,Headphones
+Germany,25-40,Travel,39585.75,Headphones
+Germany,25-40,Travel,42801.71,Headphones
+Germany,25-40,Cooking,9251.34,Laptop
+Germany,25-40,Finance,47661.97,Laptop
+Germany,25-40,Gaming,25084.07,Laptop
+Germany,25-40,Gaming,22577.49,Laptop
+Germany,25-40,Gaming,9614.16,Laptop
+Germany,25-40,Music,40483.08,Laptop
+Germany,25-40,Music,33676.23,Laptop
+Germany,25-40,Technology,38331.76,Laptop
+Germany,25-40,Technology,3370.09,Laptop
+Germany,25-40,Technology,18177.78,Laptop
+Germany,25-40,Technology,17901.02,Laptop
+Germany,25-40,Travel,13669.53,Laptop
+Germany,25-40,Travel,2727.78,Laptop
+Germany,25-40,Travel,26760.51,Laptop
+Germany,25-40,Travel,45331.23,Laptop
+Germany,25-40,Travel,28261.72,Laptop
+Germany,25-40,Travel,47110.75,Laptop
+Germany,25-40,Travel,15480.93,Laptop
+Germany,25-40,Cooking,36332.96,Smartphone
+Germany,25-40,Fitness,35554.59,Smartphone
+Germany,25-40,Gaming,18702.55,Smartphone
+Germany,25-40,Music,19395.61,Smartphone
+Germany,25-40,Music,39307.7,Smartphone
+Germany,25-40,Travel,6204.53,Smartphone
+Germany,25-40,Cooking,49527.08,Wearable
+Germany,25-40,Finance,40277.21,Wearable
+Germany,25-40,Finance,17853.98,Wearable
+Germany,25-40,Finance,49067.02,Wearable
+Germany,25-40,Fitness,20335.98,Wearable
+Germany,25-40,Fitness,44934.99,Wearable
+Germany,25-40,Gaming,22665.88,Wearable
+Germany,25-40,Technology,31854.02,Wearable
+Germany,25-40,Travel,28250.02,Wearable
+Germany,25-40,Travel,47490.8,Wearable
+Germany,25-40,Travel,35099.62,Wearable
+Germany,25-40,Travel,41709.15,Wearable
+Germany,41-55,Cooking,16179.65,Fitness Tracker
+Germany,41-55,Finance,28874.82,Fitness Tracker
+Germany,41-55,Finance,2854.11,Fitness Tracker
+Germany,41-55,Fitness,19463.33,Fitness Tracker
+Germany,41-55,Fitness,11331.39,Fitness Tracker
+Germany,41-55,Fitness,21963.8,Fitness Tracker
+Germany,41-55,Gaming,47040.6,Fitness Tracker
+Germany,41-55,Music,36908.14,Fitness Tracker
+Germany,41-55,Music,15317.02,Fitness Tracker
+Germany,41-55,Technology,44817.82,Fitness Tracker
+Germany,41-55,Technology,39488.1,Fitness Tracker
+Germany,41-55,Technology,47235.98,Fitness Tracker
+Germany,41-55,Travel,35559.06,Fitness Tracker
+Germany,41-55,Cooking,20164.53,Headphones
+Germany,41-55,Cooking,7892.94,Headphones
+Germany,41-55,Finance,6456.51,Headphones
+Germany,41-55,Finance,10467.33,Headphones
+Germany,41-55,Finance,25571.51,Headphones
+Germany,41-55,Fitness,15471.6,Headphones
+Germany,41-55,Gaming,30430.04,Headphones
+Germany,41-55,Gaming,7288.39,Headphones
+Germany,41-55,Music,3079.94,Headphones
+Germany,41-55,Music,26407.33,Headphones
+Germany,41-55,Music,5056.29,Headphones
+Germany,41-55,Music,44046.28,Headphones
+Germany,41-55,Technology,21024.99,Headphones
+Germany,41-55,Travel,22796.9,Headphones
+Germany,41-55,Travel,38308.18,Headphones
+Germany,41-55,Travel,40679.83,Headphones
+Germany,41-55,Cooking,35296.75,Laptop
+Germany,41-55,Cooking,29068.93,Laptop
+Germany,41-55,Finance,49677.14,Laptop
+Germany,41-55,Finance,8418.38,Laptop
+Germany,41-55,Gaming,38851.81,Laptop
+Germany,41-55,Gaming,17214.71,Laptop
+Germany,41-55,Travel,44845.44,Laptop
+Germany,41-55,Travel,4826.75,Laptop
+Germany,41-55,Finance,9434.51,Smartphone
+Germany,41-55,Finance,15392.13,Smartphone
+Germany,41-55,Finance,12256.56,Smartphone
+Germany,41-55,Finance,38184.52,Smartphone
+Germany,41-55,Fitness,10895.11,Smartphone
+Germany,41-55,Fitness,13524.57,Smartphone
+Germany,41-55,Fitness,18049.75,Smartphone
+Germany,41-55,Gaming,49606.44,Smartphone
+Germany,41-55,Gaming,40612.49,Smartphone
+Germany,41-55,Gaming,20717.16,Smartphone
+Germany,41-55,Gaming,45627.13,Smartphone
+Germany,41-55,Music,40523.96,Smartphone
+Germany,41-55,Music,29529.16,Smartphone
+Germany,41-55,Music,14944.16,Smartphone
+Germany,41-55,Technology,1940.13,Smartphone
+Germany,41-55,Technology,26992,Smartphone
+Germany,41-55,Technology,31720,Smartphone
+Germany,41-55,Travel,37478.59,Smartphone
+Germany,41-55,Travel,37992.23,Smartphone
+Germany,41-55,Finance,6458.71,Wearable
+Germany,41-55,Finance,44723.05,Wearable
+Germany,41-55,Finance,8582.16,Wearable
+Germany,41-55,Music,19139.49,Wearable
+Germany,41-55,Music,14672.98,Wearable
+Germany,41-55,Technology,1035.29,Wearable
+Germany,41-55,Travel,36336.01,Wearable
+Germany,56+,Cooking,9378.52,Fitness Tracker
+Germany,56+,Cooking,38900.48,Fitness Tracker
+Germany,56+,Cooking,9108.94,Fitness Tracker
+Germany,56+,Finance,37305.37,Fitness Tracker
+Germany,56+,Fitness,18690.14,Fitness Tracker
+Germany,56+,Fitness,25400.08,Fitness Tracker
+Germany,56+,Fitness,24873.31,Fitness Tracker
+Germany,56+,Fitness,31424.31,Fitness Tracker
+Germany,56+,Fitness,17106.54,Fitness Tracker
+Germany,56+,Gaming,16273.26,Fitness Tracker
+Germany,56+,Gaming,26023.34,Fitness Tracker
+Germany,56+,Technology,14019.03,Fitness Tracker
+Germany,56+,Travel,33531.42,Fitness Tracker
+Germany,56+,Travel,19101.8,Fitness Tracker
+Germany,56+,Travel,44433.33,Fitness Tracker
+Germany,56+,Cooking,34718.85,Headphones
+Germany,56+,Finance,18189.23,Headphones
+Germany,56+,Finance,8635.67,Headphones
+Germany,56+,Fitness,8925.2,Headphones
+Germany,56+,Fitness,29080.6,Headphones
+Germany,56+,Fitness,21579.44,Headphones
+Germany,56+,Fitness,3342.23,Headphones
+Germany,56+,Fitness,5514.81,Headphones
+Germany,56+,Fitness,44566.78,Headphones
+Germany,56+,Gaming,3260.67,Headphones
+Germany,56+,Gaming,12685.88,Headphones
+Germany,56+,Gaming,26296.31,Headphones
+Germany,56+,Music,17064.6,Headphones
+Germany,56+,Technology,26438.89,Headphones
+Germany,56+,Technology,8613.76,Headphones
+Germany,56+,Technology,10233.83,Headphones
+Germany,56+,Travel,48500.81,Headphones
+Germany,56+,Travel,7307.75,Headphones
+Germany,56+,Cooking,39508.13,Laptop
+Germany,56+,Cooking,32908.8,Laptop
+Germany,56+,Fitness,31148.9,Laptop
+Germany,56+,Gaming,49925.62,Laptop
+Germany,56+,Gaming,20571.14,Laptop
+Germany,56+,Music,9194,Laptop
+Germany,56+,Music,3299.57,Laptop
+Germany,56+,Music,34037.69,Laptop
+Germany,56+,Technology,39665.7,Laptop
+Germany,56+,Travel,44642.99,Laptop
+Germany,56+,Travel,34287.16,Laptop
+Germany,56+,Cooking,34291.54,Smartphone
+Germany,56+,Finance,36563.55,Smartphone
+Germany,56+,Finance,30396.6,Smartphone
+Germany,56+,Fitness,32667.67,Smartphone
+Germany,56+,Fitness,30826.97,Smartphone
+Germany,56+,Music,13722.82,Smartphone
+Germany,56+,Music,24258.83,Smartphone
+Germany,56+,Travel,1416.62,Smartphone
+Germany,56+,Travel,28391.51,Smartphone
+Germany,56+,Cooking,9307.04,Wearable
+Germany,56+,Cooking,10306.48,Wearable
+Germany,56+,Cooking,12490.23,Wearable
+Germany,56+,Cooking,36337.61,Wearable
+Germany,56+,Cooking,30490.99,Wearable
+Germany,56+,Finance,37644.76,Wearable
+Germany,56+,Finance,28482,Wearable
+Germany,56+,Finance,39258.13,Wearable
+Germany,56+,Fitness,25800.07,Wearable
+Germany,56+,Gaming,44238.73,Wearable
+Germany,56+,Gaming,19344.37,Wearable
+Germany,56+,Music,19091.99,Wearable
+Germany,56+,Technology,14160.82,Wearable
+Germany,56+,Technology,44583.62,Wearable
+Germany,56+,Technology,42039.28,Wearable
+Germany,56+,Technology,8788.11,Wearable
+Germany,56+,Travel,23724.55,Wearable
+India,18-24,Cooking,33390.97,Fitness Tracker
+India,18-24,Cooking,1604.95,Fitness Tracker
+India,18-24,Cooking,36802.46,Fitness Tracker
+India,18-24,Finance,18755.96,Fitness Tracker
+India,18-24,Fitness,31231.69,Fitness Tracker
+India,18-24,Fitness,8163.11,Fitness Tracker
+India,18-24,Fitness,18595.38,Fitness Tracker
+India,18-24,Fitness,36446.73,Fitness Tracker
+India,18-24,Gaming,8308.41,Fitness Tracker
+India,18-24,Technology,28661.48,Fitness Tracker
+India,18-24,Travel,24893.85,Fitness Tracker
+India,18-24,Travel,30616.32,Fitness Tracker
+India,18-24,Cooking,21898.84,Headphones
+India,18-24,Finance,18098.54,Headphones
+India,18-24,Finance,28767.19,Headphones
+India,18-24,Finance,1325.68,Headphones
+India,18-24,Finance,6828.32,Headphones
+India,18-24,Finance,46263.46,Headphones
+India,18-24,Fitness,37278.74,Headphones
+India,18-24,Fitness,19759.15,Headphones
+India,18-24,Fitness,14080.37,Headphones
+India,18-24,Gaming,7292.64,Headphones
+India,18-24,Gaming,30687.35,Headphones
+India,18-24,Technology,8692,Headphones
+India,18-24,Technology,39534.92,Headphones
+India,18-24,Travel,23910.35,Headphones
+India,18-24,Travel,16164.31,Headphones
+India,18-24,Finance,12862.6,Laptop
+India,18-24,Finance,12505.79,Laptop
+India,18-24,Finance,12197.55,Laptop
+India,18-24,Finance,21795.32,Laptop
+India,18-24,Fitness,35174.8,Laptop
+India,18-24,Gaming,18902.46,Laptop
+India,18-24,Music,27139.56,Laptop
+India,18-24,Music,30843.87,Laptop
+India,18-24,Music,14964.91,Laptop
+India,18-24,Technology,11274.87,Laptop
+India,18-24,Technology,4053.19,Laptop
+India,18-24,Travel,10155.89,Laptop
+India,18-24,Travel,48941.47,Laptop
+India,18-24,Travel,25554.57,Laptop
+India,18-24,Travel,41092.99,Laptop
+India,18-24,Cooking,26336.69,Smartphone
+India,18-24,Finance,17942.21,Smartphone
+India,18-24,Fitness,19635.36,Smartphone
+India,18-24,Fitness,13072.59,Smartphone
+India,18-24,Gaming,13195.96,Smartphone
+India,18-24,Gaming,1515.24,Smartphone
+India,18-24,Gaming,33150.34,Smartphone
+India,18-24,Gaming,34071.47,Smartphone
+India,18-24,Technology,20761.83,Smartphone
+India,18-24,Travel,44176.15,Smartphone
+India,18-24,Travel,40024.18,Smartphone
+India,18-24,Travel,27523.8,Smartphone
+India,18-24,Travel,4480.89,Smartphone
+India,18-24,Cooking,28539.77,Wearable
+India,18-24,Fitness,44106.68,Wearable
+India,18-24,Gaming,44654.49,Wearable
+India,18-24,Music,47682.34,Wearable
+India,18-24,Technology,12554.09,Wearable
+India,18-24,Technology,6562.54,Wearable
+India,25-40,Cooking,3815.12,Fitness Tracker
+India,25-40,Finance,40387.75,Fitness Tracker
+India,25-40,Music,8544.31,Fitness Tracker
+India,25-40,Music,36653.54,Fitness Tracker
+India,25-40,Music,27364.58,Fitness Tracker
+India,25-40,Music,43649.26,Fitness Tracker
+India,25-40,Music,32691.29,Fitness Tracker
+India,25-40,Technology,34040.83,Fitness Tracker
+India,25-40,Travel,13790.86,Fitness Tracker
+India,25-40,Cooking,25848.79,Headphones
+India,25-40,Finance,15498.05,Headphones
+India,25-40,Fitness,33626.59,Headphones
+India,25-40,Fitness,12166.1,Headphones
+India,25-40,Fitness,34350.76,Headphones
+India,25-40,Fitness,48614.35,Headphones
+India,25-40,Gaming,43390.04,Headphones
+India,25-40,Music,23478.47,Headphones
+India,25-40,Music,26109.79,Headphones
+India,25-40,Technology,2673.51,Headphones
+India,25-40,Travel,34203.42,Headphones
+India,25-40,Cooking,30244.02,Laptop
+India,25-40,Cooking,3194.25,Laptop
+India,25-40,Finance,1607.23,Laptop
+India,25-40,Fitness,18179.41,Laptop
+India,25-40,Fitness,9597.24,Laptop
+India,25-40,Fitness,40362.54,Laptop
+India,25-40,Fitness,20017.01,Laptop
+India,25-40,Gaming,6043.54,Laptop
+India,25-40,Gaming,21259.92,Laptop
+India,25-40,Gaming,37659.94,Laptop
+India,25-40,Gaming,36010.58,Laptop
+India,25-40,Music,11464.49,Laptop
+India,25-40,Technology,34560.12,Laptop
+India,25-40,Technology,11901.23,Laptop
+India,25-40,Technology,23793,Laptop
+India,25-40,Travel,30996.05,Laptop
+India,25-40,Travel,9322.07,Laptop
+India,25-40,Cooking,22108.84,Smartphone
+India,25-40,Cooking,21866.81,Smartphone
+India,25-40,Cooking,20204.01,Smartphone
+India,25-40,Finance,35793.86,Smartphone
+India,25-40,Fitness,36736.99,Smartphone
+India,25-40,Fitness,8491.26,Smartphone
+India,25-40,Music,47413.93,Smartphone
+India,25-40,Music,36261.61,Smartphone
+India,25-40,Music,20624.73,Smartphone
+India,25-40,Music,43225.57,Smartphone
+India,25-40,Technology,24101.32,Smartphone
+India,25-40,Travel,10580.32,Smartphone
+India,25-40,Travel,16474.12,Smartphone
+India,25-40,Cooking,26191.99,Wearable
+India,25-40,Cooking,14297,Wearable
+India,25-40,Finance,48796.85,Wearable
+India,25-40,Fitness,26777.87,Wearable
+India,25-40,Gaming,13124.13,Wearable
+India,25-40,Gaming,23007.31,Wearable
+India,25-40,Gaming,35344.77,Wearable
+India,25-40,Gaming,25030.63,Wearable
+India,25-40,Music,42451.8,Wearable
+India,25-40,Music,12170,Wearable
+India,25-40,Technology,29055.06,Wearable
+India,25-40,Technology,38504.27,Wearable
+India,25-40,Travel,37040.07,Wearable
+India,41-55,Cooking,10715.73,Fitness Tracker
+India,41-55,Finance,24057.18,Fitness Tracker
+India,41-55,Fitness,26604.99,Fitness Tracker
+India,41-55,Fitness,34108.77,Fitness Tracker
+India,41-55,Fitness,4325.06,Fitness Tracker
+India,41-55,Gaming,24180.22,Fitness Tracker
+India,41-55,Music,38889.16,Fitness Tracker
+India,41-55,Travel,18826.58,Fitness Tracker
+India,41-55,Travel,8242.44,Fitness Tracker
+India,41-55,Cooking,39905.33,Headphones
+India,41-55,Cooking,4857.19,Headphones
+India,41-55,Cooking,40926.98,Headphones
+India,41-55,Finance,5585.7,Headphones
+India,41-55,Finance,37896.74,Headphones
+India,41-55,Finance,36784.84,Headphones
+India,41-55,Fitness,11256.21,Headphones
+India,41-55,Gaming,47452.54,Headphones
+India,41-55,Gaming,34579.73,Headphones
+India,41-55,Music,34994.54,Headphones
+India,41-55,Music,17257.56,Headphones
+India,41-55,Technology,8940.18,Headphones
+India,41-55,Travel,18168.22,Headphones
+India,41-55,Cooking,22837.66,Laptop
+India,41-55,Cooking,25126.51,Laptop
+India,41-55,Finance,15992.75,Laptop
+India,41-55,Finance,29630.79,Laptop
+India,41-55,Finance,15783.43,Laptop
+India,41-55,Finance,49232.96,Laptop
+India,41-55,Fitness,2530.07,Laptop
+India,41-55,Fitness,1692.91,Laptop
+India,41-55,Fitness,34861.59,Laptop
+India,41-55,Gaming,13480.51,Laptop
+India,41-55,Music,2334.57,Laptop
+India,41-55,Music,10619.5,Laptop
+India,41-55,Music,27123.62,Laptop
+India,41-55,Technology,32216.13,Laptop
+India,41-55,Technology,31591.55,Laptop
+India,41-55,Technology,13444.24,Laptop
+India,41-55,Technology,4220.34,Laptop
+India,41-55,Travel,19983.89,Laptop
+India,41-55,Travel,27246.55,Laptop
+India,41-55,Cooking,13406.44,Smartphone
+India,41-55,Cooking,17274.42,Smartphone
+India,41-55,Finance,35034.16,Smartphone
+India,41-55,Gaming,29898.83,Smartphone
+India,41-55,Gaming,27720.28,Smartphone
+India,41-55,Gaming,23278.72,Smartphone
+India,41-55,Gaming,48207.29,Smartphone
+India,41-55,Fitness,8464.14,Wearable
+India,41-55,Fitness,36969.94,Wearable
+India,41-55,Fitness,45180.17,Wearable
+India,41-55,Fitness,18575.66,Wearable
+India,41-55,Gaming,19016.72,Wearable
+India,41-55,Music,6192.85,Wearable
+India,41-55,Technology,42498.41,Wearable
+India,41-55,Travel,39867.6,Wearable
+India,41-55,Travel,25980.24,Wearable
+India,41-55,Travel,36692.33,Wearable
+India,56+,Finance,25063.72,Fitness Tracker
+India,56+,Finance,14806.16,Fitness Tracker
+India,56+,Finance,33202.23,Fitness Tracker
+India,56+,Fitness,48914.49,Fitness Tracker
+India,56+,Fitness,34583.21,Fitness Tracker
+India,56+,Music,30515.95,Fitness Tracker
+India,56+,Music,30954.7,Fitness Tracker
+India,56+,Music,1674.1,Fitness Tracker
+India,56+,Music,29969.93,Fitness Tracker
+India,56+,Travel,47570.26,Fitness Tracker
+India,56+,Travel,10272.9,Fitness Tracker
+India,56+,Travel,37542.32,Fitness Tracker
+India,56+,Travel,1491.61,Fitness Tracker
+India,56+,Travel,5932.15,Fitness Tracker
+India,56+,Cooking,17996.51,Headphones
+India,56+,Fitness,21167.8,Headphones
+India,56+,Gaming,42882.39,Headphones
+India,56+,Gaming,40936.37,Headphones
+India,56+,Gaming,9286.24,Headphones
+India,56+,Gaming,8345.47,Headphones
+India,56+,Gaming,28350.4,Headphones
+India,56+,Music,36743.5,Headphones
+India,56+,Music,49704.28,Headphones
+India,56+,Technology,49238.01,Headphones
+India,56+,Technology,24143.86,Headphones
+India,56+,Travel,12965.88,Headphones
+India,56+,Travel,19361.09,Headphones
+India,56+,Travel,8037.68,Headphones
+India,56+,Travel,3444.79,Headphones
+India,56+,Cooking,3827.26,Laptop
+India,56+,Cooking,24059.99,Laptop
+India,56+,Cooking,37940.21,Laptop
+India,56+,Gaming,34231.12,Laptop
+India,56+,Gaming,3845.9,Laptop
+India,56+,Gaming,18583.99,Laptop
+India,56+,Gaming,16718.98,Laptop
+India,56+,Music,19214.46,Laptop
+India,56+,Music,3096.02,Laptop
+India,56+,Music,4007.14,Laptop
+India,56+,Music,36277.63,Laptop
+India,56+,Technology,27843.28,Laptop
+India,56+,Technology,19340.37,Laptop
+India,56+,Technology,4483.79,Laptop
+India,56+,Travel,21120.3,Laptop
+India,56+,Travel,49530.96,Laptop
+India,56+,Travel,31612.09,Laptop
+India,56+,Travel,40946.35,Laptop
+India,56+,Travel,18881.04,Laptop
+India,56+,Cooking,12611.89,Smartphone
+India,56+,Cooking,12893.95,Smartphone
+India,56+,Cooking,9149.31,Smartphone
+India,56+,Cooking,11231.69,Smartphone
+India,56+,Cooking,42122.98,Smartphone
+India,56+,Fitness,17420.4,Smartphone
+India,56+,Fitness,6160.5,Smartphone
+India,56+,Fitness,1706.67,Smartphone
+India,56+,Gaming,29267.96,Smartphone
+India,56+,Gaming,48786.61,Smartphone
+India,56+,Gaming,10418.94,Smartphone
+India,56+,Gaming,49789.28,Smartphone
+India,56+,Music,36466.91,Smartphone
+India,56+,Music,35707.81,Smartphone
+India,56+,Technology,9942.98,Smartphone
+India,56+,Technology,18714.37,Smartphone
+India,56+,Travel,43029.22,Smartphone
+India,56+,Travel,8339.4,Smartphone
+India,56+,Cooking,33551.58,Wearable
+India,56+,Cooking,38456.52,Wearable
+India,56+,Finance,42961.85,Wearable
+India,56+,Finance,36659.85,Wearable
+India,56+,Fitness,46476.69,Wearable
+India,56+,Fitness,32442.12,Wearable
+India,56+,Gaming,17232.71,Wearable
+India,56+,Technology,10427.25,Wearable
+India,56+,Technology,25437.39,Wearable
+India,56+,Travel,11783.11,Wearable
+Japan,18-24,Finance,36213.3,Fitness Tracker
+Japan,18-24,Finance,24920.04,Fitness Tracker
+Japan,18-24,Fitness,43574.87,Fitness Tracker
+Japan,18-24,Fitness,48599.76,Fitness Tracker
+Japan,18-24,Gaming,43957.08,Fitness Tracker
+Japan,18-24,Music,8643.08,Fitness Tracker
+Japan,18-24,Technology,8818.81,Fitness Tracker
+Japan,18-24,Technology,41476.21,Fitness Tracker
+Japan,18-24,Technology,44188.6,Fitness Tracker
+Japan,18-24,Technology,18006.14,Fitness Tracker
+Japan,18-24,Technology,37370.13,Fitness Tracker
+Japan,18-24,Technology,23841.8,Fitness Tracker
+Japan,18-24,Travel,4805.01,Fitness Tracker
+Japan,18-24,Travel,14013.2,Fitness Tracker
+Japan,18-24,Travel,49835.36,Fitness Tracker
+Japan,18-24,Cooking,5528.88,Headphones
+Japan,18-24,Finance,44522.79,Headphones
+Japan,18-24,Finance,47356.44,Headphones
+Japan,18-24,Fitness,20251.91,Headphones
+Japan,18-24,Gaming,13318.6,Headphones
+Japan,18-24,Music,44427.71,Headphones
+Japan,18-24,Technology,41161.87,Headphones
+Japan,18-24,Technology,30522.48,Headphones
+Japan,18-24,Travel,35392.73,Headphones
+Japan,18-24,Travel,19973.95,Headphones
+Japan,18-24,Cooking,10384.36,Laptop
+Japan,18-24,Cooking,28552.54,Laptop
+Japan,18-24,Cooking,10383.25,Laptop
+Japan,18-24,Finance,4735.74,Laptop
+Japan,18-24,Finance,6560.54,Laptop
+Japan,18-24,Finance,24668.87,Laptop
+Japan,18-24,Fitness,23341.58,Laptop
+Japan,18-24,Fitness,3233.03,Laptop
+Japan,18-24,Gaming,37933.8,Laptop
+Japan,18-24,Gaming,37729.45,Laptop
+Japan,18-24,Music,29490.09,Laptop
+Japan,18-24,Music,16804.77,Laptop
+Japan,18-24,Music,42459.9,Laptop
+Japan,18-24,Technology,33696.79,Laptop
+Japan,18-24,Technology,6700.55,Laptop
+Japan,18-24,Travel,8110.53,Laptop
+Japan,18-24,Travel,16131.79,Laptop
+Japan,18-24,Travel,41313.26,Laptop
+Japan,18-24,Cooking,20177.2,Smartphone
+Japan,18-24,Cooking,47930.94,Smartphone
+Japan,18-24,Cooking,36275.52,Smartphone
+Japan,18-24,Finance,16506.8,Smartphone
+Japan,18-24,Finance,17550.55,Smartphone
+Japan,18-24,Gaming,45015.56,Smartphone
+Japan,18-24,Gaming,18567.8,Smartphone
+Japan,18-24,Music,17438.01,Smartphone
+Japan,18-24,Technology,4003.85,Smartphone
+Japan,18-24,Travel,1782.84,Smartphone
+Japan,18-24,Travel,19689.98,Smartphone
+Japan,18-24,Cooking,49297.95,Wearable
+Japan,18-24,Cooking,27997.32,Wearable
+Japan,18-24,Finance,49107.06,Wearable
+Japan,18-24,Finance,17888.8,Wearable
+Japan,18-24,Fitness,24369.53,Wearable
+Japan,18-24,Fitness,29918.57,Wearable
+Japan,18-24,Gaming,17171.3,Wearable
+Japan,18-24,Gaming,40408.6,Wearable
+Japan,18-24,Music,19670.85,Wearable
+Japan,18-24,Technology,40453.02,Wearable
+Japan,18-24,Technology,10220.81,Wearable
+Japan,18-24,Travel,22145.49,Wearable
+Japan,18-24,Travel,23406.01,Wearable
+Japan,25-40,Cooking,30151.66,Fitness Tracker
+Japan,25-40,Finance,31131.23,Fitness Tracker
+Japan,25-40,Fitness,37433.65,Fitness Tracker
+Japan,25-40,Fitness,25229.65,Fitness Tracker
+Japan,25-40,Fitness,29555.08,Fitness Tracker
+Japan,25-40,Gaming,42576.07,Fitness Tracker
+Japan,25-40,Music,15925.14,Fitness Tracker
+Japan,25-40,Technology,17822.66,Fitness Tracker
+Japan,25-40,Technology,15563.41,Fitness Tracker
+Japan,25-40,Technology,27801.21,Fitness Tracker
+Japan,25-40,Travel,29375.68,Fitness Tracker
+Japan,25-40,Travel,41660.56,Fitness Tracker
+Japan,25-40,Travel,6307.87,Fitness Tracker
+Japan,25-40,Cooking,21403.43,Headphones
+Japan,25-40,Cooking,28385.78,Headphones
+Japan,25-40,Gaming,6845.45,Headphones
+Japan,25-40,Gaming,41980.11,Headphones
+Japan,25-40,Gaming,48845.38,Headphones
+Japan,25-40,Music,25705.97,Headphones
+Japan,25-40,Music,48423.42,Headphones
+Japan,25-40,Music,31703.27,Headphones
+Japan,25-40,Technology,41830.59,Headphones
+Japan,25-40,Travel,36153.24,Headphones
+Japan,25-40,Travel,38162.49,Headphones
+Japan,25-40,Travel,24161.28,Headphones
+Japan,25-40,Cooking,33174.7,Laptop
+Japan,25-40,Cooking,2809.65,Laptop
+Japan,25-40,Finance,6219.48,Laptop
+Japan,25-40,Finance,2305.06,Laptop
+Japan,25-40,Fitness,26830.53,Laptop
+Japan,25-40,Fitness,2558.12,Laptop
+Japan,25-40,Music,45150.92,Laptop
+Japan,25-40,Travel,4830.78,Laptop
+Japan,25-40,Cooking,47027.25,Smartphone
+Japan,25-40,Cooking,4658.78,Smartphone
+Japan,25-40,Finance,24535.41,Smartphone
+Japan,25-40,Finance,32850.25,Smartphone
+Japan,25-40,Fitness,49541.33,Smartphone
+Japan,25-40,Fitness,47037.7,Smartphone
+Japan,25-40,Gaming,46827.62,Smartphone
+Japan,25-40,Gaming,3498.29,Smartphone
+Japan,25-40,Gaming,10684.58,Smartphone
+Japan,25-40,Music,18208.52,Smartphone
+Japan,25-40,Music,8340.07,Smartphone
+Japan,25-40,Music,4824.07,Smartphone
+Japan,25-40,Music,38639.22,Smartphone
+Japan,25-40,Technology,18681.39,Smartphone
+Japan,25-40,Technology,7725.96,Smartphone
+Japan,25-40,Technology,28616.55,Smartphone
+Japan,25-40,Travel,1328.34,Smartphone
+Japan,25-40,Travel,31103.48,Smartphone
+Japan,25-40,Travel,10304.21,Smartphone
+Japan,25-40,Travel,34045,Smartphone
+Japan,25-40,Cooking,11235.9,Wearable
+Japan,25-40,Cooking,22114.8,Wearable
+Japan,25-40,Fitness,8503.02,Wearable
+Japan,25-40,Fitness,38839.82,Wearable
+Japan,25-40,Fitness,7631.76,Wearable
+Japan,25-40,Music,1158.78,Wearable
+Japan,25-40,Music,47203.43,Wearable
+Japan,25-40,Music,35346.61,Wearable
+Japan,25-40,Music,43508.37,Wearable
+Japan,25-40,Technology,18304.14,Wearable
+Japan,25-40,Technology,46775.59,Wearable
+Japan,41-55,Cooking,29566.47,Fitness Tracker
+Japan,41-55,Cooking,28163.76,Fitness Tracker
+Japan,41-55,Finance,27569.76,Fitness Tracker
+Japan,41-55,Finance,28816.55,Fitness Tracker
+Japan,41-55,Music,47104.08,Fitness Tracker
+Japan,41-55,Music,43425.06,Fitness Tracker
+Japan,41-55,Technology,14984.68,Fitness Tracker
+Japan,41-55,Cooking,17442.2,Headphones
+Japan,41-55,Cooking,27307.89,Headphones
+Japan,41-55,Cooking,7922.1,Headphones
+Japan,41-55,Cooking,44670.63,Headphones
+Japan,41-55,Cooking,28095.09,Headphones
+Japan,41-55,Cooking,21842.85,Headphones
+Japan,41-55,Finance,11220.3,Headphones
+Japan,41-55,Gaming,47291.49,Headphones
+Japan,41-55,Gaming,21016.53,Headphones
+Japan,41-55,Music,6894.5,Headphones
+Japan,41-55,Music,49390.94,Headphones
+Japan,41-55,Technology,24535.31,Headphones
+Japan,41-55,Technology,11651.6,Headphones
+Japan,41-55,Technology,49416.29,Headphones
+Japan,41-55,Technology,32147.84,Headphones
+Japan,41-55,Travel,16478.32,Headphones
+Japan,41-55,Travel,43894.89,Headphones
+Japan,41-55,Cooking,17639.01,Laptop
+Japan,41-55,Cooking,23575.66,Laptop
+Japan,41-55,Finance,6232.06,Laptop
+Japan,41-55,Finance,2323.03,Laptop
+Japan,41-55,Fitness,42434.11,Laptop
+Japan,41-55,Fitness,1493.3,Laptop
+Japan,41-55,Fitness,37342.04,Laptop
+Japan,41-55,Fitness,19689.31,Laptop
+Japan,41-55,Fitness,26535.38,Laptop
+Japan,41-55,Gaming,42558.61,Laptop
+Japan,41-55,Gaming,38463,Laptop
+Japan,41-55,Music,24389.78,Laptop
+Japan,41-55,Music,42326.34,Laptop
+Japan,41-55,Technology,20869.39,Laptop
+Japan,41-55,Travel,43423.01,Laptop
+Japan,41-55,Travel,47929.74,Laptop
+Japan,41-55,Cooking,3761.05,Smartphone
+Japan,41-55,Cooking,4043.76,Smartphone
+Japan,41-55,Finance,26135.56,Smartphone
+Japan,41-55,Finance,32301.47,Smartphone
+Japan,41-55,Finance,49038.5,Smartphone
+Japan,41-55,Finance,20102.83,Smartphone
+Japan,41-55,Fitness,26372.94,Smartphone
+Japan,41-55,Fitness,8902.92,Smartphone
+Japan,41-55,Gaming,33987.41,Smartphone
+Japan,41-55,Gaming,2167.12,Smartphone
+Japan,41-55,Gaming,7485.32,Smartphone
+Japan,41-55,Gaming,44988.04,Smartphone
+Japan,41-55,Gaming,37353.67,Smartphone
+Japan,41-55,Music,28880.98,Smartphone
+Japan,41-55,Technology,9300.82,Smartphone
+Japan,41-55,Cooking,28221.81,Wearable
+Japan,41-55,Finance,44939.4,Wearable
+Japan,41-55,Gaming,5487.86,Wearable
+Japan,41-55,Gaming,44651,Wearable
+Japan,41-55,Gaming,31472.21,Wearable
+Japan,41-55,Technology,45552.32,Wearable
+Japan,41-55,Technology,21674.98,Wearable
+Japan,56+,Cooking,10953.25,Fitness Tracker
+Japan,56+,Cooking,8296.04,Fitness Tracker
+Japan,56+,Cooking,49494.62,Fitness Tracker
+Japan,56+,Finance,14207.17,Fitness Tracker
+Japan,56+,Finance,45299.02,Fitness Tracker
+Japan,56+,Music,37410.19,Fitness Tracker
+Japan,56+,Music,33215.85,Fitness Tracker
+Japan,56+,Technology,33068.77,Fitness Tracker
+Japan,56+,Technology,41139.89,Fitness Tracker
+Japan,56+,Technology,18352.14,Fitness Tracker
+Japan,56+,Technology,39162.48,Fitness Tracker
+Japan,56+,Cooking,37048.61,Headphones
+Japan,56+,Finance,26977.04,Headphones
+Japan,56+,Fitness,17835.89,Headphones
+Japan,56+,Gaming,1283.8,Headphones
+Japan,56+,Music,8630.18,Headphones
+Japan,56+,Technology,40595.79,Headphones
+Japan,56+,Travel,1546.97,Headphones
+Japan,56+,Travel,42942.03,Headphones
+Japan,56+,Travel,48874.94,Headphones
+Japan,56+,Travel,40252.89,Headphones
+Japan,56+,Travel,35079.98,Headphones
+Japan,56+,Fitness,40455.08,Laptop
+Japan,56+,Fitness,2199.42,Laptop
+Japan,56+,Gaming,35129.5,Laptop
+Japan,56+,Music,29640.31,Laptop
+Japan,56+,Music,46770.51,Laptop
+Japan,56+,Travel,4710.16,Laptop
+Japan,56+,Travel,37848.52,Laptop
+Japan,56+,Travel,44648.81,Laptop
+Japan,56+,Cooking,19310.51,Smartphone
+Japan,56+,Cooking,21679.54,Smartphone
+Japan,56+,Finance,13012.97,Smartphone
+Japan,56+,Fitness,21972.42,Smartphone
+Japan,56+,Fitness,10725.04,Smartphone
+Japan,56+,Gaming,25549.08,Smartphone
+Japan,56+,Music,5032.47,Smartphone
+Japan,56+,Travel,28675.43,Smartphone
+Japan,56+,Travel,43642.31,Smartphone
+Japan,56+,Travel,25527.12,Smartphone
+Japan,56+,Travel,40547.11,Smartphone
+Japan,56+,Travel,20044.99,Smartphone
+Japan,56+,Travel,39963.67,Smartphone
+Japan,56+,Cooking,11343.25,Wearable
+Japan,56+,Cooking,4336.3,Wearable
+Japan,56+,Cooking,30646.6,Wearable
+Japan,56+,Fitness,32465.27,Wearable
+Japan,56+,Fitness,42039.13,Wearable
+Japan,56+,Gaming,9258.42,Wearable
+Japan,56+,Music,27634.55,Wearable
+Japan,56+,Music,7300.31,Wearable
+Japan,56+,Music,28585.97,Wearable
+Japan,56+,Music,16207.99,Wearable
+Japan,56+,Technology,35078.56,Wearable
+Japan,56+,Technology,42954.14,Wearable
+Japan,56+,Technology,15510.54,Wearable
+USA,18-24,Cooking,2711.03,Fitness Tracker
+USA,18-24,Cooking,14771.25,Fitness Tracker
+USA,18-24,Finance,41155.92,Fitness Tracker
+USA,18-24,Finance,43856.5,Fitness Tracker
+USA,18-24,Fitness,6170.61,Fitness Tracker
+USA,18-24,Gaming,46463.1,Fitness Tracker
+USA,18-24,Gaming,30832.06,Fitness Tracker
+USA,18-24,Gaming,3358.08,Fitness Tracker
+USA,18-24,Music,35241.95,Fitness Tracker
+USA,18-24,Travel,29223.72,Fitness Tracker
+USA,18-24,Travel,34548.78,Fitness Tracker
+USA,18-24,Cooking,6323.82,Headphones
+USA,18-24,Finance,45254.96,Headphones
+USA,18-24,Fitness,10878.5,Headphones
+USA,18-24,Gaming,23003.72,Headphones
+USA,18-24,Gaming,1049.22,Headphones
+USA,18-24,Gaming,16906.33,Headphones
+USA,18-24,Technology,18140.12,Headphones
+USA,18-24,Technology,9208.16,Headphones
+USA,18-24,Technology,7767.39,Headphones
+USA,18-24,Travel,30777.16,Headphones
+USA,18-24,Finance,12060.99,Laptop
+USA,18-24,Fitness,21865.35,Laptop
+USA,18-24,Gaming,32063.18,Laptop
+USA,18-24,Music,46317.19,Laptop
+USA,18-24,Music,8301.83,Laptop
+USA,18-24,Cooking,45408.16,Smartphone
+USA,18-24,Finance,12748.55,Smartphone
+USA,18-24,Fitness,37872.17,Smartphone
+USA,18-24,Fitness,1671.1,Smartphone
+USA,18-24,Gaming,29388.08,Smartphone
+USA,18-24,Gaming,35494.52,Smartphone
+USA,18-24,Travel,7353.27,Smartphone
+USA,18-24,Cooking,41121.48,Wearable
+USA,18-24,Cooking,14982.19,Wearable
+USA,18-24,Finance,8633.86,Wearable
+USA,18-24,Finance,6087.76,Wearable
+USA,18-24,Fitness,1966.3,Wearable
+USA,18-24,Gaming,22060.45,Wearable
+USA,18-24,Gaming,34165.82,Wearable
+USA,18-24,Music,46524.79,Wearable
+USA,18-24,Travel,39719.88,Wearable
+USA,18-24,Travel,20968.8,Wearable
+USA,25-40,Cooking,14674.89,Fitness Tracker
+USA,25-40,Cooking,38637.95,Fitness Tracker
+USA,25-40,Finance,2235.74,Fitness Tracker
+USA,25-40,Finance,42506.45,Fitness Tracker
+USA,25-40,Finance,29437.33,Fitness Tracker
+USA,25-40,Fitness,11771,Fitness Tracker
+USA,25-40,Music,33063.85,Fitness Tracker
+USA,25-40,Technology,32709.64,Fitness Tracker
+USA,25-40,Travel,11726.85,Fitness Tracker
+USA,25-40,Travel,27254.15,Fitness Tracker
+USA,25-40,Travel,21413.38,Fitness Tracker
+USA,25-40,Travel,8428.57,Fitness Tracker
+USA,25-40,Travel,33488.04,Fitness Tracker
+USA,25-40,Travel,40693.56,Fitness Tracker
+USA,25-40,Cooking,38653.18,Headphones
+USA,25-40,Cooking,21324.85,Headphones
+USA,25-40,Finance,46647.36,Headphones
+USA,25-40,Finance,12483.82,Headphones
+USA,25-40,Fitness,34332.14,Headphones
+USA,25-40,Fitness,18488.47,Headphones
+USA,25-40,Fitness,4693.26,Headphones
+USA,25-40,Music,48200.78,Headphones
+USA,25-40,Music,18150.65,Headphones
+USA,25-40,Music,12965.22,Headphones
+USA,25-40,Technology,25928.52,Headphones
+USA,25-40,Travel,12786.38,Headphones
+USA,25-40,Travel,48329.64,Headphones
+USA,25-40,Travel,43267.58,Headphones
+USA,25-40,Travel,15960.04,Headphones
+USA,25-40,Finance,26308.8,Laptop
+USA,25-40,Finance,9418.06,Laptop
+USA,25-40,Finance,12367.42,Laptop
+USA,25-40,Fitness,17817.04,Laptop
+USA,25-40,Music,46311.94,Laptop
+USA,25-40,Cooking,33602.52,Smartphone
+USA,25-40,Cooking,10289.75,Smartphone
+USA,25-40,Finance,44025.18,Smartphone
+USA,25-40,Fitness,1700.77,Smartphone
+USA,25-40,Fitness,12567.15,Smartphone
+USA,25-40,Gaming,15886.85,Smartphone
+USA,25-40,Music,20342.19,Smartphone
+USA,25-40,Music,21597.47,Smartphone
+USA,25-40,Music,39976.14,Smartphone
+USA,25-40,Music,3217.08,Smartphone
+USA,25-40,Technology,20097.13,Smartphone
+USA,25-40,Technology,36109.66,Smartphone
+USA,25-40,Travel,34990.36,Smartphone
+USA,25-40,Cooking,14204.71,Wearable
+USA,25-40,Cooking,34389.89,Wearable
+USA,25-40,Finance,40552.84,Wearable
+USA,25-40,Finance,33177.92,Wearable
+USA,25-40,Fitness,31990.2,Wearable
+USA,25-40,Fitness,3231.81,Wearable
+USA,25-40,Fitness,4167,Wearable
+USA,25-40,Gaming,16268.6,Wearable
+USA,25-40,Gaming,1605.42,Wearable
+USA,25-40,Music,7320.31,Wearable
+USA,25-40,Music,41109.88,Wearable
+USA,25-40,Music,23540.63,Wearable
+USA,25-40,Technology,12078.23,Wearable
+USA,25-40,Technology,47891.4,Wearable
+USA,25-40,Travel,46943.91,Wearable
+USA,25-40,Travel,43427.81,Wearable
+USA,25-40,Travel,39323.92,Wearable
+USA,41-55,Cooking,13157.21,Fitness Tracker
+USA,41-55,Finance,31628.86,Fitness Tracker
+USA,41-55,Fitness,43017.37,Fitness Tracker
+USA,41-55,Fitness,38612.48,Fitness Tracker
+USA,41-55,Fitness,48180.51,Fitness Tracker
+USA,41-55,Fitness,23464.63,Fitness Tracker
+USA,41-55,Gaming,45106.75,Fitness Tracker
+USA,41-55,Gaming,10982.74,Fitness Tracker
+USA,41-55,Gaming,49560.18,Fitness Tracker
+USA,41-55,Technology,29244.62,Fitness Tracker
+USA,41-55,Technology,39670.29,Fitness Tracker
+USA,41-55,Travel,1421.08,Fitness Tracker
+USA,41-55,Cooking,2090.33,Headphones
+USA,41-55,Finance,37196.42,Headphones
+USA,41-55,Finance,25347.03,Headphones
+USA,41-55,Finance,3903.65,Headphones
+USA,41-55,Finance,17998.16,Headphones
+USA,41-55,Fitness,14753.03,Headphones
+USA,41-55,Gaming,29144.14,Headphones
+USA,41-55,Gaming,37897.73,Headphones
+USA,41-55,Technology,19323.02,Headphones
+USA,41-55,Technology,5058.06,Headphones
+USA,41-55,Technology,31915.89,Headphones
+USA,41-55,Technology,9219.23,Headphones
+USA,41-55,Travel,19215.32,Headphones
+USA,41-55,Cooking,3704.85,Laptop
+USA,41-55,Fitness,47102.8,Laptop
+USA,41-55,Fitness,34042.48,Laptop
+USA,41-55,Fitness,1937.24,Laptop
+USA,41-55,Gaming,14752.06,Laptop
+USA,41-55,Gaming,2766.38,Laptop
+USA,41-55,Gaming,9964.3,Laptop
+USA,41-55,Music,1014.36,Laptop
+USA,41-55,Music,11601.43,Laptop
+USA,41-55,Travel,45573.32,Laptop
+USA,41-55,Travel,10594.82,Laptop
+USA,41-55,Travel,2534.69,Laptop
+USA,41-55,Cooking,11509.7,Smartphone
+USA,41-55,Cooking,39396.3,Smartphone
+USA,41-55,Finance,45115.82,Smartphone
+USA,41-55,Finance,8450.67,Smartphone
+USA,41-55,Fitness,42998.52,Smartphone
+USA,41-55,Gaming,16686.78,Smartphone
+USA,41-55,Gaming,26004.84,Smartphone
+USA,41-55,Gaming,31912.35,Smartphone
+USA,41-55,Gaming,5817.11,Smartphone
+USA,41-55,Technology,26426.85,Smartphone
+USA,41-55,Technology,23846.66,Smartphone
+USA,41-55,Technology,33966.89,Smartphone
+USA,41-55,Travel,6846.31,Smartphone
+USA,41-55,Travel,21033.45,Smartphone
+USA,41-55,Cooking,16844.02,Wearable
+USA,41-55,Cooking,24370.92,Wearable
+USA,41-55,Finance,43969.54,Wearable
+USA,41-55,Gaming,10123.49,Wearable
+USA,41-55,Gaming,1023,Wearable
+USA,41-55,Music,28735.12,Wearable
+USA,41-55,Music,9113.89,Wearable
+USA,41-55,Music,48856.58,Wearable
+USA,41-55,Music,33340.89,Wearable
+USA,41-55,Technology,11991.5,Wearable
+USA,41-55,Technology,9009.89,Wearable
+USA,41-55,Travel,25560.67,Wearable
+USA,56+,Cooking,10261.06,Fitness Tracker
+USA,56+,Cooking,25289.67,Fitness Tracker
+USA,56+,Finance,3909.95,Fitness Tracker
+USA,56+,Finance,17167.45,Fitness Tracker
+USA,56+,Finance,10569.61,Fitness Tracker
+USA,56+,Finance,2361.82,Fitness Tracker
+USA,56+,Finance,32366.02,Fitness Tracker
+USA,56+,Gaming,1741.82,Fitness Tracker
+USA,56+,Music,36559.74,Fitness Tracker
+USA,56+,Music,45352.23,Fitness Tracker
+USA,56+,Technology,4919.52,Fitness Tracker
+USA,56+,Finance,8306.58,Headphones
+USA,56+,Finance,3886.79,Headphones
+USA,56+,Finance,8130.84,Headphones
+USA,56+,Fitness,44444.09,Headphones
+USA,56+,Fitness,32639.49,Headphones
+USA,56+,Fitness,11898.27,Headphones
+USA,56+,Fitness,16760.24,Headphones
+USA,56+,Fitness,20375.53,Headphones
+USA,56+,Gaming,31353.54,Headphones
+USA,56+,Gaming,29147,Headphones
+USA,56+,Gaming,10854.86,Headphones
+USA,56+,Gaming,34613.65,Headphones
+USA,56+,Gaming,45054.88,Headphones
+USA,56+,Music,13114.82,Headphones
+USA,56+,Music,3480.32,Headphones
+USA,56+,Technology,36276.78,Headphones
+USA,56+,Travel,47468.96,Headphones
+USA,56+,Finance,8252.08,Laptop
+USA,56+,Fitness,23644.69,Laptop
+USA,56+,Gaming,3431.87,Laptop
+USA,56+,Gaming,49286.14,Laptop
+USA,56+,Gaming,45594.83,Laptop
+USA,56+,Music,33169.06,Laptop
+USA,56+,Technology,6200.56,Laptop
+USA,56+,Technology,34897.47,Laptop
+USA,56+,Technology,3947.88,Laptop
+USA,56+,Technology,16641.17,Laptop
+USA,56+,Travel,16724.27,Laptop
+USA,56+,Travel,35933.42,Laptop
+USA,56+,Cooking,11449.1,Smartphone
+USA,56+,Cooking,14276.5,Smartphone
+USA,56+,Cooking,34133.69,Smartphone
+USA,56+,Finance,30657.25,Smartphone
+USA,56+,Fitness,18457.92,Smartphone
+USA,56+,Fitness,26375.91,Smartphone
+USA,56+,Fitness,49461.87,Smartphone
+USA,56+,Gaming,34620.72,Smartphone
+USA,56+,Gaming,28865.14,Smartphone
+USA,56+,Music,23670.33,Smartphone
+USA,56+,Technology,31599.03,Smartphone
+USA,56+,Travel,9677.92,Smartphone
+USA,56+,Travel,39860.94,Smartphone
+USA,56+,Cooking,30188.96,Wearable
+USA,56+,Cooking,25870.05,Wearable
+USA,56+,Cooking,49976.18,Wearable
+USA,56+,Cooking,24452.04,Wearable
+USA,56+,Cooking,1818.88,Wearable
+USA,56+,Finance,33096.57,Wearable
+USA,56+,Fitness,11197.78,Wearable
+USA,56+,Fitness,16232.13,Wearable
+USA,56+,Technology,10359.54,Wearable
+USA,56+,Technology,27406.73,Wearable
+USA,56+,Travel,31224.3,Wearable
+USA,56+,Travel,42995.09,Wearable
+USA,56+,Travel,10947.12,Wearable
+USA,56+,Travel,8435.41,Wearable
